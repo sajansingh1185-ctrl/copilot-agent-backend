@@ -1,7 +1,6 @@
 {
   "name": "copilot-agent-backend",
   "version": "1.0.0",
-  "description": "GitHub Copilot SDK backend",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -11,4 +10,5 @@
     "@github/copilot-sdk": "latest"
   }
 }
+
 
